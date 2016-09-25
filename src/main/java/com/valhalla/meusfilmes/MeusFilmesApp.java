@@ -31,7 +31,7 @@ public class MeusFilmesApp {
     @Inject
     private Environment env;
 
-    /**
+    /** 
      * Initializes MeusFilmes.
      * <p>
      * Spring profiles can be configured with a program arguments --spring.profiles.active=your-active-profile
